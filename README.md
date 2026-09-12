@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004631,100:06B6D4&height=220&section=header&text=David%20Vargas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Desde%202010&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004631,100:06B6D4&height=220&section=header&text=David%20Vargas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20IT%20Solutions%20%7C%20Desde%202010&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+desde+2010;PHP+%7C+Laravel+%7C+DavCode+(framework+propio);React+%C2%B7+Angular+%C2%B7+Vue+%C2%B7+Next.js;Siempre+aprendiendo+algo+nuevo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+desde+2010;Desarrollo+Web+%C2%B7+Redes+%C2%B7+Servidores;PHP+%7C+Laravel+%7C+DavCode+(framework+propio);Soporte+IT+%C2%B7+Virtualizaci%C3%B3n+VMware" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Desarrollador Full Stack con más de 15 años de experiencia (desde 2010) construyendo sistemas web, APIs y aplicaciones móviles a medida. Desde frameworks MVC propios en PHP hasta interfaces modernas con React, Angular y Vue.
+Full Stack Developer y especialista en soluciones IT, con más de 15 años de experiencia (desde 2010). Desarrollo sistemas web y aplicaciones a medida, y además diseño e implemento infraestructura: redes, cableado estructurado, servidores Windows/Linux y virtualización con VMware.
 </p>
 
 <br>
@@ -22,10 +22,14 @@ Desarrollador Full Stack con más de 15 años de experiencia (desde 2010) constr
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white" />
@@ -66,19 +70,62 @@ Desarrollador Full Stack con más de 15 años de experiencia (desde 2010) constr
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+**Infraestructura y redes**
+<p>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redes_LAN%2FWAN-1a1a1a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cableado_Estructurado-1a1a1a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VoIP-1a1a1a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CCTV-1a1a1a?style=for-the-badge" />
+</p>
+
+**Diseño**
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
 
 <br>
 
-## 💼 Lo que hago
+## 💼 Servicios
 
-- Desarrollo de sistemas web a medida (gestión documental, RRHH, control de recursos, portales institucionales)
-- Arquitecturas backend en PHP con patrones MVC personalizados y Laravel
+**Desarrollo web**
+- Sistemas web y páginas web a medida (portales institucionales, sistemas de gestión, landing pages)
+- Arquitecturas backend en PHP con patrones MVC personalizados, Laravel y CodeIgniter
 - APIs y backends con Node.js / NestJS
 - Interfaces modernas y responsivas con React, Next.js, Vue y Angular
 - Apps móviles multiplataforma con Flutter
 - Apps de escritorio nativas con Tauri (Rust)
+
+**Redes y telecomunicaciones**
+- Diseño e instalación de redes LAN/WAN
+- Cableado estructurado (certificación de puntos, organización de racks)
+- Configuración de switches, routers y puntos de acceso
+- Telefonía IP / VoIP
+- Instalación de sistemas CCTV / videovigilancia IP
+
+**Soporte Técnico IT**
+- Soporte técnico a usuarios y equipos
+- Mantenimiento preventivo y correctivo de infraestructura
+- Mantenimiento y reparación de computadoras (hardware y software)
+- Diagnóstico y resolución de incidencias
+
+**Servidores y virtualización**
+- Instalación y administración de Windows Server (roles: Active Directory Domain Services, DNS, DHCP, File Server, Print Server, políticas de grupo GPO)
+- Administración de servidores Linux (Debian, Ubuntu, Fedora, Linux Mint)
+- Virtualización de infraestructura con VMware
+- Backups, seguridad informática y políticas de respaldo
+
+**Diseño gráfico**
+- Diseño de piezas gráficas y material publicitario con Photoshop e Illustrator
 
 <br>
 
