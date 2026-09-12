@@ -149,8 +149,8 @@ Full Stack Developer y especialista en soluciones IT, con más de 15 años de ex
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidluiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidluiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" />
 </p>
 
 <p align="center">
