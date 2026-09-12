@@ -157,10 +157,6 @@ Full Stack Developer y especialista en soluciones IT, con más de 15 años de ex
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidluiz&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidluiz&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=6" />
-</p>
-
 <br>
 
 ## 📫 Contacto
