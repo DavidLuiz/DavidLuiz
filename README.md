@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004631,100:06B6D4&height=220&section=header&text=David%20Vargas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20IT%20Solutions%20%7C%20Desde%202010&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004631,100:06B6D4&height=220&section=header&text=David%20Vargas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20y%20Soluciones%20IT%20%7C%20Desde%202010&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+desde+2010;Desarrollo+Web+%C2%B7+Redes+%C2%B7+Servidores;PHP+%7C+Laravel+%7C+DavCode+(framework+propio);Soporte+IT+%C2%B7+Virtualizaci%C3%B3n+VMware" />
